@@ -5,7 +5,7 @@
 <PluginAuthor>StevenD</PluginAuthor>
 <Beta>False</Beta>
 <Category>Other:</Category>
-<Name>OpenVMTools_compiled</Name>
+<Name>openVMTools_compiled</Name>
 <Description>
 Open-VM-Tools for running unRAID as a VM under ESXi.
 </Description>
