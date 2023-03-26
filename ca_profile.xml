@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Maintainer>
-  <Icon>https://raw.githubusercontent.com/StevenDTX/unRAID-open-vm-tools/master/openVMTools_compiled.png</Icon>
+  <Icon>https://raw.githubusercontent.com/StevenDTX/unraid-plugin-repository/master/stevendtx.png</Icon>
   <Profile>
-    openVMTools_compiled Repository
+    Been using unRAID since 2008. Running virtualized unRAID since about 2013.
   </Profile>
   <DonateLink></DonateLink>
   <DonateText></DonateText>
