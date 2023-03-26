@@ -10,6 +10,5 @@
 Open-VM-Tools for running unRAID as a VM under ESXi.
 </Description>
 <Support>https://forums.unraid.net/topic/36603-open-vm-tools-for-unraid-6</Support>
-<Icon>https://raw.githubusercontent.com/StevenDTX/unraid-plugin-repository/master/open-vm-tools-icon.png</Icon>
-<IconFA>refresh</IconFA>
+<Icon>https://raw.githubusercontent.com/StevenDTX/unRAID-open-vm-tools/master/openVMTools_compiled.png</Icon>
 </Containers>
