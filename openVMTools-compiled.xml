@@ -7,8 +7,8 @@
 <Category>Other:</Category>
 <Name>openVMTools_compiled</Name>
 <Description>
-Open-VM-Tools for running unRAID as a VM under ESXi.
+Open-VM-Tools for running unRAID as a VM under vSphere.
 </Description>
-<Support>https://forums.unraid.net/topic/36603-open-vm-tools-for-unraid-6</Support>
+<Support>https://forums.unraid.net/topic/187519-plugin-open-vm-tools/</Support>
 <Icon>https://raw.githubusercontent.com/StevenDTX/unraid-plugin-repository/master/openVMTools_compiled_2.png</Icon>
 </Containers>
